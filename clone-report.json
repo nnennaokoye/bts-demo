@@ -1,0 +1,13 @@
+{
+  "site": "https://btw-labs.com/",
+  "mode": "entire",
+  "startedAt": "2026-11-22T07:42:15.225Z",
+  "completedAt": "2026-11-22T07:42:32.931Z",
+  "pagesDiscovered": 25,
+  "pagesDownloaded": 25,
+  "pagesSkipped": 0,
+  "assetsDownloaded": 116,
+  "assetsMissing": 1,
+  "bytes": 9492920,
+  "errors": 1
+}
